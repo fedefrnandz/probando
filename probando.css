@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: grey;
+}
+#contenedor{
+    width: 1200px;
+    height: 1000px;
+    background-color: black;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+#titular{
+    height: 15%;
+    background-color: pink;
+    margin: 1em;
+    border-radius: 1em;
+}
+#banner{
+    height: 10%;
+    background-color: hotpink;
+    margin: 1em;
+    border-radius: 1em;
+}
+#bannerright{
+    height: 80%;
+    background-color: indigo;
+    float: right;
+    width: 30%;
+    border-radius: 1em;
+    margin: 0.5em;
+    
+}
+.circleleft{
+    float: left;
+    height: 50%;
+    background-color: black;
+    width: 5%;
+    margin: 0.5em;
+    border-radius: 30px;
+}
+#contenedor2{
+    height: 40%;
+    margin: 1em;
+}
+#izquierda{
+    height: 100%;
+    width: 30%;
+    background-color: lightgreen;
+    float: left;
+    border-radius: 1em;
+    
+}
+#bajo{
+    height: 27%;
+    background-color: lightskyblue;
+    border-radius: 1em;
+    margin: 1em;
+
+}
