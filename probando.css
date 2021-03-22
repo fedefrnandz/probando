@@ -42,7 +42,7 @@ body{
     border-radius: 30px;
 }
 #contenedor2{
-    height: 40%;
+    height: 50%;
     margin: 1em;
 }
 #izquierda{
@@ -54,9 +54,54 @@ body{
     
 }
 #bajo{
-    height: 27%;
+    height: 17%;
     background-color: lightskyblue;
     border-radius: 1em;
     margin: 1em;
 
+}
+#menu{
+    float: left;
+    height: 12%;
+    width: 90%;
+    background-color: yellow;
+    border-radius: 1em;
+    margin: 1em;
+    border: 2px solid black;
+}
+#menu2{
+    float: left;
+    height: 12%;
+    width: 90%;
+    background-color: pink;
+    border-radius: 1em;
+    margin: 1em;
+    border: 2px solid black;
+}
+#menu3{
+    float: left;
+    height: 12%;
+    width: 90%;
+    background-color: salmon;
+    border-radius: 1em;
+    margin: 1em;
+    border: 2px solid black;
+}
+#menu4{
+    float: left;
+    height: 12%;
+    width: 90%;
+    background-color: lightseagreen;
+    border-radius: 1em;
+    margin: 1em;
+    border: 2px solid black;
+}
+#menu5{
+    float: left;
+    height: 12%;
+    width: 90%;
+    background-color: purple;
+    border-radius: 1em;
+    margin: 1em;
+    border: 2px solid black;
 }
