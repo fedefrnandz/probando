@@ -8,7 +8,7 @@ body{
 #contenedor{
     width: 1200px;
     height: 1000px;
-    background-color: black;
+    background-color: white;
     margin: 0.5em auto;
     padding: 0.5em;
 }
@@ -45,20 +45,32 @@ body{
     height: 50%;
     margin: 1em;
 }
-#izquierda{
+#conder{
+    float: right;
+    height: 100%;
+    width: 68%;
+    background-color: lemonchiffon;
+    border-radius: 1em;
+}
+#conizq{
+    float: left;
     height: 100%;
     width: 30%;
+    border-radius: 1em;
+}
+#izquierda{
+    height: 100%;
+    width: 100%;
     background-color: lightgreen;
     float: left;
     border-radius: 1em;
     
 }
 #bajo{
-    height: 17%;
+    height: 15%;
     background-color: lightskyblue;
     border-radius: 1em;
     margin: 1em;
-
 }
 #menu{
     float: left;
@@ -100,7 +112,7 @@ body{
     float: left;
     height: 12%;
     width: 90%;
-    background-color: purple;
+    background-color: lemonchiffon;
     border-radius: 1em;
     margin: 1em;
     border: 2px solid black;
