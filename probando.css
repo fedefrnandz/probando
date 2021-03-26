@@ -88,9 +88,7 @@ border-radius: 1em;
 #medium{
     width: 96%;
     height: 32%;
-
     border-radius: 2em;
-
 }
 #condermediumleft{
     height: 80%;
@@ -118,17 +116,31 @@ border-radius: 1em;
     
     width: 96%;
     height: 33%;
-    background-color: mediumaquamarine;
+
     border-radius: 2em;
+}
+#conderbotleft{
+    float: left;
+    width: 30%;
+    height: 100%;
+
+    border-radius: 1em;
 }
 #imagen3{
     float: left;
     height: 75%;
-    width: 25%;
+    width: 85%;
     background-color: black;
     border-radius: 1em;
     margin: 1em;
 
+}
+#conderbotright{
+    height: 100%;
+    width: 65%;
+    font-size: small;
+    float: right;
+    margin: 1em;
 }
 #conizq{
     float: left;
