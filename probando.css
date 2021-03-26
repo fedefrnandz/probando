@@ -53,30 +53,40 @@ body{
     border-radius: 1em;
 }
 #top{
+    margin:1em;
     height: 30%;
-    width: 100%;
+    width: 96%;
     background-color: lightsalmon;
     border-radius: 2em;
 }
 #imagen{
     float: left;
-    height: 50%;
+    height: 70%;
     width: 25%;
     background-color: black;
     border-radius: 1em;
     margin:1em;
 }
 #medium{
-    width: 100%;
+    width: 96%;
     height: 30%;
     background-color: lightsteelblue;
-    border-radius: 1em;
+    border-radius: 2em;
+    margin:1em;
 }
 #imagen2{
     float: right;
     height: 30%;
     background-color: maroon;
     border-radius: 1em;
+    
+}
+#bot{
+    margin:1em;
+    width: 96%;
+    height: 26%;
+    background-color: mediumaquamarine;
+    border-radius: 2em;
 }
 #conizq{
     float: left;
