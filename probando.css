@@ -49,44 +49,72 @@ body{
     float: right;
     height: 100%;
     width: 68%;
-    background-color: lemonchiffon;
     border-radius: 1em;
 }
 #top{
-    margin:1em;
-    height: 30%;
+    
+    height: 33%;
     width: 96%;
-    background-color: lightsalmon;
     border-radius: 2em;
 }
 #imagen{
     float: left;
     height: 70%;
-    width: 25%;
+    width: 80%;
     background-color: black;
     border-radius: 1em;
     margin:1em;
 }
+#condertopleft{
+    float: left;
+    height: 100%;
+    width: 30%;
+    border-radius: 1em;
+}
+#condertopright{
+float: right;
+height: 100%;
+width: 70%;
+border-radius: 1em;
+}
+#imagen1{
+    float: left;
+    height: 80%;
+    width: 90%;
+    border-radius: 1em;
+    margin: 1em;
+    font-size: small;
+}
 #medium{
     width: 96%;
-    height: 30%;
+    height: 32%;
     background-color: lightsteelblue;
     border-radius: 2em;
-    margin:1em;
+
 }
 #imagen2{
     float: right;
-    height: 30%;
-    background-color: maroon;
+    height: 75%;
+    width: 25%;
+    background-color: black;
     border-radius: 1em;
-    
+    margin: 1em;
 }
 #bot{
-    margin:1em;
+    
     width: 96%;
-    height: 26%;
+    height: 33%;
     background-color: mediumaquamarine;
     border-radius: 2em;
+}
+#imagen3{
+    float: left;
+    height: 75%;
+    width: 25%;
+    background-color: black;
+    border-radius: 1em;
+    margin: 1em;
+
 }
 #conizq{
     float: left;
