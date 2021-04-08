@@ -25,11 +25,11 @@ body{
     border-radius: 1em;
 }
 #bannerright{
-    height: 80%;
+    height: 50%;
     background-color: indigo;
     float: right;
-    width: 30%;
-    border-radius: 1em;
+    width: 5%;
+    border-radius: 10em;
     margin: 0.5em;
     
 }
@@ -164,46 +164,36 @@ border-radius: 1em;
 }
 #menu{
     float: left;
-    height: 12%;
-    width: 90%;
+    height: 20%;
+    width: 100%;
     background-color: yellow;
-    border-radius: 1em;
-    margin: 1em;
-    border: 2px solid black;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
 }
 #menu2{
     float: left;
-    height: 12%;
-    width: 90%;
+    height: 20%;
+    width: 100%;
     background-color: pink;
-    border-radius: 1em;
-    margin: 1em;
-    border: 2px solid black;
 }
 #menu3{
     float: left;
-    height: 12%;
-    width: 90%;
+    height: 20%;
+    width: 100%;
     background-color: salmon;
-    border-radius: 1em;
-    margin: 1em;
-    border: 2px solid black;
 }
 #menu4{
     float: left;
-    height: 12%;
-    width: 90%;
+    height: 20%;
+    width: 100%;
     background-color: lightseagreen;
-    border-radius: 1em;
-    margin: 1em;
-    border: 2px solid black;
+
 }
 #menu5{
     float: left;
-    height: 12%;
-    width: 90%;
+    height: 20%;
+    width: 100%;
     background-color: lemonchiffon;
-    border-radius: 1em;
-    margin: 1em;
-    border: 2px solid black;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
 }
